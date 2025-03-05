@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "2025_03_05_1W"
             }
+          },
+          {
+            "id": "589b6d5b3c884b05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025_03_05_1W 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -128,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025_03_05_1W 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -157,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025_03_05_1W 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -191,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9aa11d6e5bb174d",
+  "active": "589b6d5b3c884b05",
   "lastOpenFiles": [
-    "Data Warehouse.md",
     "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
-    "image/스크린샷 2025-03-05 오후 3.54.05.png",
     "2025_3학년_1학기/비즈니스모델링/2025_03_05_1w.md",
+    "2025_3학년_1학기/개념/Data Lake.md",
+    "2025_3학년_1학기/개념/Data Warehouse.md",
+    "2025_3학년_1학기/컴퓨터논리/2025_03_04_1w.md",
+    "2025_3학년_1학기/클라우드/2025_03_04.md",
+    "image/스크린샷 2025-03-05 오후 3.54.05.png",
+    "image/스크린샷 2025-03-05 오후 4.02.16.png",
     "2025_3학년_1학기/개념",
     "2025_3학년_1학기/시스템 프로그래밍/무제.md",
     "image",
@@ -221,9 +233,7 @@
     "템플릿/시프 템플릿.md",
     "템플릿/비모 템플릿.md",
     "템플릿.md",
-    "2025_3학년_1학기/클라우드/2025_03_04.md",
     "템플릿",
-    "2025_3학년_1학기/컴퓨터논리/2025_03_04_1w.md",
     "홈브류 세팅.md"
   ]
 }
