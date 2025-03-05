@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "image",
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "promptDelete": false
 }
