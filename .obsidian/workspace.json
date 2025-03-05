@@ -186,12 +186,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc52c0c2661e210b",
+  "active": "b9aa11d6e5bb174d",
   "lastOpenFiles": [
     "Data Warehouse.md",
     "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
