@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "2025_03_05_1W"
             }
-          },
-          {
-            "id": "589b6d5b3c884b05",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "2025_03_05_1W 의 백링크"
             }
           },
           {
@@ -137,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2025_03_05_1W 의 나가는 링크"
             }
           },
           {
@@ -165,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2025_03_05_1W 의 개요"
             }
           },
           {
@@ -212,11 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589b6d5b3c884b05",
+  "active": "fc52c0c2661e210b",
   "lastOpenFiles": [
+    "무제.canvas",
+    "2025_3학년_1학기/개념/Data Lake.md",
     "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_05_1w.md",
-    "2025_3학년_1학기/개념/Data Lake.md",
     "2025_3학년_1학기/개념/Data Warehouse.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_04_1w.md",
     "2025_3학년_1학기/클라우드/2025_03_04.md",
