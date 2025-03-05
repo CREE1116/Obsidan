@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebb273d4aaf137f",
+        "id": "6a59e105aaff7f81",
         "type": "tabs",
         "children": [
           {
-            "id": "95bccc67b6b579dd",
+            "id": "a357ef27c3f81c34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "56e7181c58d91d1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +31,8 @@
               "title": "2025_03_05_1W"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95bccc67b6b579dd",
+  "active": "56e7181c58d91d1f",
   "lastOpenFiles": [
+    "2025-03-05.md",
     "2025_3학년_1학기/시스템 프로그래밍/2025_03_05_1W.md",
     "2025_3학년_1학기/개념/Artificial Neural Network.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_04_1w.md",
@@ -225,7 +237,6 @@
     "2025_3학년_1학기/개념",
     "2025_3학년_1학기/시스템 프로그래밍/무제.md",
     "image",
-    "2025-03-05.md",
     "템플릿/분산 템플릿.md",
     "템플릿/클라우드 템플릿.md",
     "템플릿/컴논이 템플릿.md",
