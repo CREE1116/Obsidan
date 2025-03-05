@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:2025_3학년_1학기",
@@ -34,11 +34,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.87808430989583,
   "lineSizeMultiplier": 4.08782958984375,
-  "collapse-forces": true,
-  "centerStrength": 0.370849609375,
-  "repelStrength": 13.7215169270833,
-  "linkStrength": 1,
-  "linkDistance": 246,
-  "scale": 0.6489250903117658,
+  "collapse-forces": false,
+  "centerStrength": 0.747599283854167,
+  "repelStrength": 20,
+  "linkStrength": 0.557942708333333,
+  "linkDistance": 117,
+  "scale": 0.28932305564492283,
   "close": true
 }
