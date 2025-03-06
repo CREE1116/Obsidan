@@ -3,17 +3,10 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:2025_3학년_1학기",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
     {
       "query": "path:템플릿",
       "color": {
@@ -27,18 +20,32 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#개념  ",
+      "color": {
+        "a": 1,
+        "rgb": 13831905
+      }
+    },
+    {
+      "query": "tag:#학교  ",
+      "color": {
+        "a": 1,
+        "rgb": 15533831
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.87808430989583,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.0798583984375,
   "lineSizeMultiplier": 4.08782958984375,
-  "collapse-forces": false,
-  "centerStrength": 0.747599283854167,
-  "repelStrength": 20,
-  "linkStrength": 0.557942708333333,
-  "linkDistance": 117,
-  "scale": 0.710752944291828,
+  "collapse-forces": true,
+  "centerStrength": 0.72314453125,
+  "repelStrength": 18.9461263020833,
+  "linkStrength": 1,
+  "linkDistance": 197,
+  "scale": 0.7734003181658974,
   "close": true
 }
