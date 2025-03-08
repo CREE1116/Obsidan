@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025_03_06_OT"
             }
+          },
+          {
+            "id": "225cf09267f7957e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a13204cfd07eace1",
+  "active": "225cf09267f7957e",
   "lastOpenFiles": [
     "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_06_1w_2.md",
