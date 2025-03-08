@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/git/commit.md",
+                "file": "공부/git/2025-03-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commit"
+              "title": "2025-03-08"
             }
           },
           {
@@ -199,7 +199,7 @@
   },
   "active": "c7b15388903f7211",
   "lastOpenFiles": [
-    "공부/git/commit.md",
+    "공부/git/2025-03-08.md",
     "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
     "템플릿/분산 템플릿.md",
     "템플릿/개인공부 템플릿.md",
