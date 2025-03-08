@@ -1,0 +1,10 @@
+
+# commit
+
+2025-03-08 _ 16:55
+
+#공부 
+
+```zsh
+git config --global user.name
+```
