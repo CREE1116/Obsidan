@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "059bdd31bc9405c4",
@@ -212,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f2e9e03aeb1ca91",
+  "active": "b73890f81d92a82c",
   "lastOpenFiles": [
     "2025_3학년_1학기/컴퓨터논리/2025_03_06_1w_2.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_11_2w_1.md",
