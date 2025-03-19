@@ -1,6 +1,8 @@
 {
-  "cssTheme": "Terminal",
+  "cssTheme": "Monokai",
   "translucency": true,
   "textFontFamily": "Fira Code",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Fira Code",
+  "baseFontSizeAction": false
 }
