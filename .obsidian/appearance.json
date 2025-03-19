@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "translucency": true,
-  "textFontFamily": "Fira Code",
+  "textFontFamily": "Bodoni Ornaments",
   "monospaceFontFamily": "Fira Code",
-  "interfaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Chalkduster",
   "baseFontSizeAction": false
 }
