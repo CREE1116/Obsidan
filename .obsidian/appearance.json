@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Terminal",
+  "translucency": true,
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
+}
