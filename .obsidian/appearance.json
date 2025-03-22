@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Things",
+  "translucency": true,
+  "textFontFamily": "D2Coding ligature",
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "D2Coding ligature",
+  "baseFontSizeAction": false
+}
