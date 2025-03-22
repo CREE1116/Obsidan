@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_13.md",
+                "file": "2025_3학년_1학기/컴퓨터논리/2025_03_13_2w_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_13"
+              "title": "2025_03_13_2w_2"
             }
           }
         ]
@@ -154,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68c66ee70aebab26",
+  "active": "9f2e9e03aeb1ca91",
   "lastOpenFiles": [
-    "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
+    "홈브류 세팅.md",
     "2025_3학년_1학기/분산프로그래밍/2025_03_13.md",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_13_2w_2.md",
     "컴논이 2주차 과제.md",
     "2025_3학년_1학기/클라우드/2025_03_06_1w.md",
@@ -224,7 +224,6 @@
     "2025_3학년_1학기/비즈니스모델링/2025_03_12_2w-2.md",
     "2025_3학년_1학기/개념/Cold-Start.md",
     "2025_3학년_1학기/개념/가상화.md",
-    "2025_3학년_1학기/개념/가상머신.md",
     "image/IMG_6166.heic",
     "공부/git",
     "무제.canvas",
