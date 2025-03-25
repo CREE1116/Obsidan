@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fbcee0ea4bf5a3",
+        "id": "c69a420a135991b2",
         "type": "tabs",
         "children": [
           {
-            "id": "21a1e65a7f87cc32",
+            "id": "273068eb0f4668fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,8 +205,10 @@
       "super-duper-audio-recorder:Start/Stop Recording": false
     }
   },
-  "active": "21a1e65a7f87cc32",
+  "active": "273068eb0f4668fd",
   "lastOpenFiles": [
+    "와인 EA세팅.md",
+    "컴논이 2주차 과제.md",
     "무제 2.md",
     "무제 1.md",
     "무제.md",
@@ -233,8 +235,6 @@
     "2025_3학년_1학기/개념/Amazon EMR.md",
     "2025_3학년_1학기/개념/방화벽.md",
     "2025_3학년_1학기/개념/Spark.md",
-    "2025_3학년_1학기/개념/Hadoop.md",
-    "작업 스케줄러.md",
     "image/스크린샷 2025-03-20 오전 11.15.43.png",
     "image/스크린샷 2025-03-20 오전 10.52.19.png",
     "image/스크린샷 2025-03-20 오전 10.49.37.png",
