@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "2025_03_26_4w_2"
             }
-          },
-          {
-            "id": "aaa9c8cf92cc11fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "홈브류 세팅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "홈브류 세팅"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,11 +220,11 @@
       "super-duper-audio-recorder:Start/Stop Recording": false
     }
   },
-  "active": "aaa9c8cf92cc11fd",
+  "active": "c6235aedb119d667",
   "lastOpenFiles": [
+    "홈브류 세팅.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_24_4w.md",
-    "홈브류 세팅.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_25_4w_1.md",
     "무제 2.md",
     "와인 EA세팅.md",
