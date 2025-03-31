@@ -28,5 +28,24 @@
   "smart_notices": {
     "muted": {}
   },
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "gemini",
+      "openai": {
+        "model_key": "gpt-4o"
+      },
+      "gemini": {
+        "model_key": "",
+        "api_key": "AIzaSyAWWtLmMFyQaKMs_SkGhCtXt34WSJ07B08"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "ko",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  }
 }
