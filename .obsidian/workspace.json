@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
+                "file": "홈브류 세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_26_4w_2"
+              "title": "홈브류 세팅"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "059bdd31bc9405c4",
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
+                "file": "홈브류 세팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025_03_26_4w_2 의 나가는 링크"
+              "title": "홈브류 세팅 의 나가는 링크"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
+                "file": "홈브류 세팅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025_03_26_4w_2 의 개요"
+              "title": "홈브류 세팅 의 개요"
             }
           },
           {
@@ -212,10 +211,10 @@
   },
   "active": "c0504d8e3404c554",
   "lastOpenFiles": [
+    "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
     "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
     "2025_3학년_1학기/개념/컨테이너.md",
     "2025_3학년_1학기/개념/도커.md",
-    "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_19_3w.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_24_4w.md",
     "코랩 사용 코드.md",
