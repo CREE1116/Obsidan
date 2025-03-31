@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "23d07014f60317e3",
+        "id": "519817ff58401813",
         "type": "tabs",
         "children": [
           {
-            "id": "c0504d8e3404c554",
+            "id": "6244974d39d9f2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_27.md",
+                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_27"
+              "title": "2025_03_29_기존 유즈케이스 통합을 위한 분석"
+            }
+          },
+          {
+            "id": "a905f14ccc4c9a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_03_29_기존 유즈케이스 통합을 위한 분석"
+            }
+          },
+          {
+            "id": "1386d73d7a4deade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_03_29_기존 유즈케이스 통합을 위한 분석"
+            }
+          },
+          {
+            "id": "b4808625f1066785",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -33,6 +72,7 @@
       {
         "id": "80d6564a9c6f2b4a",
         "type": "tabs",
+        "dimension": 63.58839050131926,
         "children": [
           {
             "id": "9f2e9e03aeb1ca91",
@@ -53,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#개념",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +117,12 @@
         ]
       },
       {
-        "id": "75d644e5e98f423d",
+        "id": "570e30d7c2edc964",
         "type": "tabs",
+        "dimension": 36.41160949868074,
         "children": [
           {
-            "id": "5fb88ca4b0d31fc5",
+            "id": "661ab245dca4430f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -156,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025_3학년_1학기/개념/IPS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IPS 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -171,8 +211,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -186,55 +226,53 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "super-duper-audio-recorder:Start/Stop Recording": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "super-duper-audio-recorder:Start/Stop Recording": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0504d8e3404c554",
+  "active": "9f2e9e03aeb1ca91",
   "lastOpenFiles": [
-    "코랩 사용 코드.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_27.md",
-    "무제 1.md",
-    "imo.md",
-    "pytorch 테스트.md",
-    "파일.md",
-    "홈브류 세팅.md",
-    "2025_3학년_1학기/클라우드/2025_03_25_4w_2.md",
-    "2025_3학년_1학기/4차산업_OT.md",
-    "2025_3학년_1학기/컴퓨터논리/2025_03_06_1w_2.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_13.md",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
+    "무제 3.md",
     "2025_3학년_1학기/분산프로그래밍/2025_03_22_보험사 요구사항 분석.md",
+    "2025_03_29_새로운 통합 유즈케이스 다이어그램을 위한 정리.md",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_27.md",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
+    "코랩 사용 코드.md",
+    "무제.md",
+    "무제.canvas",
+    "무제 2.md",
+    "2025_3학년_1학기/클라우드/2025_03_25_4w_2.md",
+    "2025_3학년_1학기/컴퓨터논리/2025_03_25_4w_1.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_26_4w_2.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_24_4w.md",
-    "2025_3학년_1학기/컴퓨터논리/2025_03_25_4w_1.md",
-    "무제 2.md",
-    "와인 EA세팅.md",
-    "컴논이 2주차 과제.md",
-    "무제.md",
-    "2025_3학년_1학기/클라우드/2025_03_13_2w_2.md",
-    "무제.canvas",
-    "2025_3학년_1학기/개념/논증.md",
-    "2025_3학년_1학기/개념/멀티테넌트.md",
-    "2025_3학년_1학기/개념/CSP.md",
-    "2025_3학년_1학기/개념/서버리스 컴퓨팅.md",
-    "2025_3학년_1학기/클라우드/2025_03_18_3w_1.md",
-    "recording-multitrack-2025-03-24T05-25-42-136Z.wav",
+    "pytorch 테스트.md",
+    "홈브류 세팅.md",
+    "2025_3학년_1학기/컴퓨터논리/2025_03_18_3w_1.md",
+    "2025_3학년_1학기/비즈니스모델링/2025_03_19_3w.md",
+    "2025_3학년_1학기/컴퓨터논리/2025_03_20_3w_2.md",
+    "2025_3학년_1학기/컴퓨터논리/2025_03_13_2w_2.md",
+    "conflict-files-obsidian-git.md",
+    "2025_3학년_1학기/비즈니스모델링/2025_03_10_2w.md",
+    "파일.md",
+    "작업 스케줄링.md",
+    "작업 스케줄러.md",
+    "무제 1.md",
+    "imo.md",
     "image/스크린샷 2025-03-20 오전 11.15.43.png",
     "image/스크린샷 2025-03-20 오전 10.52.19.png",
     "image/스크린샷 2025-03-20 오전 10.49.37.png",
