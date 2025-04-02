@@ -9,7 +9,4 @@
 - 
 winetricks세팅
 
-msxml3
-msxml4
-mdac28
-jet40
+msxml3 msxml4 msxml6 mdac28 jet40

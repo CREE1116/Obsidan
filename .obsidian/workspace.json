@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_3학년_1학기/비즈니스모델링/2025_03_31_5w_1.md",
+                "file": "와인 EA세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_31_5w_1"
+              "title": "와인 EA세팅"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75d644e5e98f423d",
@@ -94,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "059bdd31bc9405c4",
@@ -208,8 +208,8 @@
   },
   "active": "9e3cdf8b30d998ef",
   "lastOpenFiles": [
-    "2025_3학년_1학기/비즈니스모델링/2025_04_02_5w_2.md",
     "2025_3학년_1학기/비즈니스모델링/2025_03_31_5w_1.md",
+    "2025_3학년_1학기/비즈니스모델링/2025_04_02_5w_2.md",
     "2025_3학년_1학기/4차산업_OT.md",
     "2025_03_29_새로운 통합 유즈케이스 다이어그램을 위한 정리.md",
     "2025_3학년_1학기/클라우드/2025_04_01_w5_1.md",
