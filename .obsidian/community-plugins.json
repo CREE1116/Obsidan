@@ -3,5 +3,6 @@
   "obsidian-git",
   "file-explorer-note-count",
   "obsidian-outliner",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-local-rest-api"
 ]
