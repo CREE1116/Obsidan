@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f2e9e03aeb1ca91",
+  "active": "351141922f8a0bab",
   "lastOpenFiles": [
     "DB라는 이름을 줄이고자 한 이유.md",
     "2025_3학년_1학기/분산프로그래밍/2025_04_03_분산 피드백 정리.md",
