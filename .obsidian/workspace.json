@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"화자 1\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "059bdd31bc9405c4",
@@ -174,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "무제 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "무제 3 의 개요"
             }
           },
           {
@@ -207,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd0c38363074a7f7",
+  "active": "351141922f8a0bab",
   "lastOpenFiles": [
     "DB라는 이름을 줄이고자 한 이유.md",
     "무제 3.md",
