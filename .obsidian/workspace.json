@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#개념",
+                "query": "\"화자 1\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "570e30d7c2edc964",
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "351141922f8a0bab",
+  "active": "cd0c38363074a7f7",
   "lastOpenFiles": [
     "DB라는 이름을 줄이고자 한 이유.md",
     "무제 3.md",
