@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB라는 이름을 줄이고자 한 이유.md",
+                "file": "와인 EA세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB라는 이름을 줄이고자 한 이유"
+              "title": "와인 EA세팅"
             }
           },
           {
-            "id": "351141922f8a0bab",
+            "id": "4c9333f5a7a89ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_3학년_1학기/분산프로그래밍/2025_03_27.md",
+                "file": "무제 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_03_27"
+              "title": "무제 3"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#개념",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025_3학년_1학기/분산프로그래밍/2025_04_03_분산 피드백 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025_04_03_분산 피드백 정리 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -207,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +220,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "351141922f8a0bab",
+  "active": "4c9333f5a7a89ddd",
   "lastOpenFiles": [
-    "2025_3학년_1학기/분산프로그래밍/2025_03_22_보험사 요구사항 분석.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_13.md",
-    "2025_03_29_새로운 통합 유즈케이스 다이어그램을 위한 정리.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_06_OT.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_27.md",
-    "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
     "2025_3학년_1학기/분산프로그래밍/2025_04_03_분산 피드백 정리.md",
+    "와인 EA세팅.md",
+    "무제 3.md",
+    "무제 2.md",
+    "무제 1.md",
+    "코랩 사용 코드.md",
+    "파일.md",
+    "홈브류 세팅.md",
+    "컴논이 2주차 과제.md",
+    "무제.canvas",
     "DB라는 이름을 줄이고자 한 이유.md",
     "2025_3학년_1학기/비즈니스모델링/2025_04_02_5w_2.md",
     "conflict-files-obsidian-git.md",
@@ -239,16 +242,13 @@
     "2025_3학년_1학기/컴퓨터논리/2025_03_04_1w.md",
     "2025_3학년_1학기/컴퓨터논리/2025_03_06_1w_2.md",
     "2025_3학년_1학기/개념/작업 스케줄링.md",
-    "와인 EA세팅.md",
     "2025_3학년_1학기/개념/작업 스케줄러.md",
     "졸업학점.md",
-    "컴논이 2주차 과제.md",
-    "코랩 사용 코드.md",
-    "홈브류 세팅.md",
-    "파일.md",
     "imo.md",
     "pytorch 테스트.md",
-    "무제.canvas",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_29_기존 유즈케이스 통합을 위한 분석.md",
+    "2025_3학년_1학기/분산프로그래밍/2025_03_22_보험사 요구사항 분석.md",
+    "2025_03_29_새로운 통합 유즈케이스 다이어그램을 위한 정리.md",
     "image/스크린샷 2025-03-20 오전 11.15.43.png",
     "image/스크린샷 2025-03-20 오전 10.52.19.png",
     "image/스크린샷 2025-03-20 오전 10.49.37.png",
